@@ -1,0 +1,8 @@
+https://github.com/coursera-dl/coursera-dl/issues/870#issuecomment-2799466551
+
+quote:
+>The coursera login url seems to have changed. it is now "'https://www.coursera.org/?authMode=login'"
+>In define.py, I changed line 17 to:
+>AUTH_URL_V3 = 'https://www.coursera.org/?authMode=login'
+>
+>With the --debug option, I now get the following output:
