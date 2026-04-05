@@ -1,0 +1,3 @@
+cd .lib
+cp auth.example auth
+cp course.example course

@@ -8,4 +8,5 @@ bin=$venv/bin/$name
 
 bacDir=/mnt/chromeos/MyFiles/Downloads
 
-. .lib/cauth
+. .lib/auth
+. .lib/course
