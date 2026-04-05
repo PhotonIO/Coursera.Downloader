@@ -1,3 +1,5 @@
+# Bug:
+## Error logging in? #870
 https://github.com/coursera-dl/coursera-dl/issues/870#issuecomment-2799466551
 
 quote:
