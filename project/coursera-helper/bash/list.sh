@@ -5,4 +5,4 @@ activate
 
 coursera-helper --cauth $CAUTH --list-courses
 
-bash
+#bash
