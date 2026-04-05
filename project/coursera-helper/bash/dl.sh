@@ -3,6 +3,8 @@
 
 activate
 
-coursera-helper --cauth $CAUTH --list-courses
+mkdir -p $dl_path/$course
+
+coursera-helper --cauth $CAUTH ---path $dl_path/$course $course 
 
 #bash
