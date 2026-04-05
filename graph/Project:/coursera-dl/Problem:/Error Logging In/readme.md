@@ -9,3 +9,6 @@ quote:
 >With the --debug option, I now get the following output:
 
 ## [Seems Like Coursera API or Authentication problem #867](https://github.com/coursera-dl/coursera-dl/issues/867)
+
+# Solution: Use CAUTH Cookie Login method instead
+https://github.com/coursera-dl/coursera-dl/issues/867#issuecomment-2377745849
