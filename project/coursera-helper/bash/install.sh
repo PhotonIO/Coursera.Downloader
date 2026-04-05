@@ -23,7 +23,7 @@ install(){
 
 backup(){
 	bacDir=/mnt/chromeos/MyFiles/Downloads
-	bacName=$name.clean.tgz
+	bacName=$name.venv.clean.tgz
 	backup=$bacDir/$bacName
 
 	if [ ! -f $backup ];then
