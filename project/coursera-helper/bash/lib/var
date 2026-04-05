@@ -1,0 +1,9 @@
+name=coursera-helper
+
+photon=~/photon
+
+venv=$photon/$name
+
+bin=$venv/bin/$name
+
+bacDir=/mnt/chromeos/MyFiles/Downloads

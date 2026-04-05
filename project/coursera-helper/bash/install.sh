@@ -1,9 +1,4 @@
-name=coursera-helper
-photon=~/photon
-venv=$photon/$name
-
-
-bin=$venv/bin/$name
+. lib/var
 
 install(){
 	if [ ! -f $bin ];then
@@ -22,7 +17,6 @@ install(){
 }
 
 backup(){
-	bacDir=/mnt/chromeos/MyFiles/Downloads
 	bacName=$name.venv.clean.tgz
 	backup=$bacDir/$bacName
 
