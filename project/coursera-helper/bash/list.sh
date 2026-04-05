@@ -1,5 +1,5 @@
-. lib/activate.sh
-. lib/cauth
+. .lib/var
+. .lib/activate.sh
 
 activate
 

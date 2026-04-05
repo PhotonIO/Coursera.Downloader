@@ -1,4 +1,4 @@
-. lib/var
+. .lib/var
 
 install(){
 	if [ ! -f $bin ];then

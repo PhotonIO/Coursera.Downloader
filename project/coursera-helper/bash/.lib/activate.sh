@@ -1,4 +1,4 @@
-. lib/var
+. .lib/var
 
 activate(){
 	cd $venv
