@@ -1,6 +1,6 @@
 name=coursera-helper
 
-photon=~/photon
+photon=~/.uni/photon
 
 dl_path=$photon/ark
 
