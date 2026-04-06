@@ -10,5 +10,6 @@ bin=$venv/bin/$name
 
 bacDir=/mnt/chromeos/MyFiles/Downloads
 
+. .lib/init
 . .lib/auth
 . .lib/course
