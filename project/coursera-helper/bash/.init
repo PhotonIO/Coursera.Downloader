@@ -1,3 +1,9 @@
 cd .lib
-cp auth.example auth
-cp course.example course
+
+if [ ! -f auth ];then
+	cp auth.example auth
+fi
+
+if [ ! -f course ];then
+	cp course.example course
+fi
